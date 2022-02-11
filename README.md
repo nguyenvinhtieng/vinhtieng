@@ -12,4 +12,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinhtieng&show_icons=true&locale=en&layout=compact" alt="vinhtieng" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?vinhtieng=#vinhtieng&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?nguyenvinhtieng=#vinhtieng&theme=dracula&hide_border=true)
